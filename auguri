@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Auguri agli Sposi</title>
+</head>
+<body>
+
+<h2>💍 Matrimonio.exe</h2>
+
+<pre>
+String sposo = "Angelo";
+String sposa = "Valentina";
+
+if (amore == vero) {
+    felicità = infinita;
+    rispetto++;
+    complicità++;
+    litigi = "solo per scegliere la serie TV 😄";
+}
+
+System.out.println("✔ Installazione del matrimonio completata!");
+
+Output:
+❤️ Angelo + Valentica = Per sempre ❤️
+
+# Congratulazioni!
+# Che il vostro amore non vada mai in crash,
+# che i bug si risolvano con un bacio
+# e che gli aggiornamenti portino sempre felicità.
+
+return "Vivere felici e contenti!";
+</pre>
+
+</body>
+</html>
